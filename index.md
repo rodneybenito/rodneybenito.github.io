@@ -6,7 +6,7 @@ Rodney Benito Ads is run by Rodney Benito, an independent Amazon advertising con
 
 ## What I do
 I manage Amazon Sponsored Ads for sellers who want their advertising run carefully and reported clearly. For each seller I work with, I:
-- Run their campaigns. I set up and structure Sponsored Products campaigns, adjust bids and budgets, add negative keywords, and pause what isn't working.
+- Run their campaigns. I set up and structure Sponsored Products, Sponsored Brands and Sponsored Display campaigns, adjust bids and budgets, add keywords, targets and negatives, and pause what isn't working.
 - Report on performance. Weekly and monthly reports cover spend, sales, ACoS, TACoS and what changed, with recommendations for the next period.
 - Connect ads to the bigger picture. I compare advertising results with total sales and product costs, so decisions are based on profit, not just ad metrics.
 
@@ -30,4 +30,4 @@ Based in the Philippines
 
 ---
 
-<small>Rodney Benito Ads is an independent business and is not affiliated with, endorsed by or sponsored by Amazon. Amazon, Amazon Ads and Sponsored Products are trademarks of Amazon.com, Inc. or its affiliates.</small>
+<small>Rodney Benito Ads is an independent business and is not affiliated with, endorsed by or sponsored by Amazon. Amazon, Amazon Ads, Sponsored Products, Sponsored Brands and Sponsored Display are trademarks of Amazon.com, Inc. or its affiliates.</small>
