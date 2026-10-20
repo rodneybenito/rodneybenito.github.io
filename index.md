@@ -1,6 +1,8 @@
-# Rodney Benito Ads Management
+# Rodney Benito Ads
 
-Amazon advertising management for independent sellers, run by Rodney Benito, an independent Amazon advertising consultant.
+Amazon advertising management for independent sellers.
+
+Rodney Benito Ads is run by Rodney Benito, an independent Amazon advertising consultant.
 
 ## What I do
 I manage Amazon Sponsored Ads for sellers who want their advertising run carefully and reported clearly. For each seller I work with, I:
@@ -9,7 +11,7 @@ I manage Amazon Sponsored Ads for sellers who want their advertising run careful
 - Connect ads to the bigger picture. I compare advertising results with total sales and product costs, so decisions are based on profit, not just ad metrics.
 
 ## How the tool works
-Rodney Benito Ads Management is a private tool I use to do this work. It is not offered to the public, and sellers don't need to install or log in to anything.
+Rodney Benito Ads uses a private tool for this work. It is not offered to the public, and sellers don't need to install or log in to anything.
 - A seller authorizes it once through Amazon's own sign-in page, and can revoke that access at any time.
 - It uses the official Amazon Ads API to read campaign performance and to make the advertising changes listed above.
 - It uses the Amazon Selling Partner API to read sales and traffic by product and fee totals, so reports can show total sales and profit.
@@ -18,9 +20,14 @@ Rodney Benito Ads Management is a private tool I use to do this work. It is not 
 Every change is made deliberately by me, as part of the work the seller has asked me to do.
 
 ## Privacy and data
-Data is used only to manage and report on the authorizing seller's advertising. It is never sold or shared. It is stored on encrypted devices and deleted within 30 days when the work ends or on request. Full details are in the [Privacy Notice](https://rodneybenito.github.io/privacy/).
+Data is used only to manage and report on the authorizing seller's advertising. It is never sold. It is stored on encrypted devices and deleted within 30 days when the work ends or on request. Full details, including the services that help process it, are in the [Privacy Notice](https://rodneybenitoads.com/privacy/).
 
 ## Contact
-Rodney Benito
-Email: rodneycbenito@gmail.com
+Rodney Benito, Rodney Benito Ads  
+Email: rodney@rodneybenitoads.com  
+LinkedIn: [Rodney Benito](https://www.linkedin.com/in/rodneycbenito/)  
 Based in the Philippines
+
+---
+
+<small>Rodney Benito Ads is an independent business and is not affiliated with, endorsed by or sponsored by Amazon. Amazon, Amazon Ads and Sponsored Products are trademarks of Amazon.com, Inc. or its affiliates.</small>
