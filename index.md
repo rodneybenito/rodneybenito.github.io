@@ -2,10 +2,11 @@
 
 Amazon advertising management for independent sellers.
 
-Showmyrise Advertising Agency is an independent Amazon advertising agency run by Rodney Benito.
+Showmyrise Advertising Agency is an independent Amazon advertising agency run by Rodney Benito. It works with sellers across Amazon's marketplaces, including the US, Canada, the UK, Europe and Australia.
 
 ## What I do
 I manage Amazon Sponsored Ads for sellers who want their advertising run carefully and reported clearly. For each seller I work with, I:
+- Start with a free account audit. Before any work begins, I review the seller's advertising and show where spend is being wasted and what I would change. The seller chooses how: by authorizing the tool through Amazon, or by sending their own Amazon reports.
 - Run their campaigns. I set up and structure Sponsored Products, Sponsored Brands and Sponsored Display campaigns, adjust bids and budgets, add keywords, targets and negatives, and pause what isn't working.
 - Report on performance. Weekly and monthly reports cover spend, sales, ACoS, TACoS and what changed, with recommendations for the next period.
 - Connect ads to the bigger picture. I compare advertising results with total sales and product costs, so decisions are based on profit, not just ad metrics.
